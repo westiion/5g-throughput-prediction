@@ -1,2 +1,6 @@
-# 5g-throughput-prediction
-ML term project: predicting 5G network throughput from channel and context metrics (Raca et al. dataset)
+## Reproduction
+
+1. Open notebook in Google Colab
+2. Upload dataset
+3. Run all cells
+4. Results are saved in /artifacts
