@@ -130,24 +130,3 @@ Original Scale (kbps)
 2. Dataset 업로드
 3. 모든 셀 순차 실행
 4. 결과 및 Figure 자동 생성
-
----
-
-## Repository Structure
-
-```text
-.
-├── throughput_prediction.ipynb
-├── requirements.txt
-├── README.md
-├── figures/
-└── artifacts/
-```
-
----
-
-## Use of Generative AI
-
-본 프로젝트에서는 ChatGPT를 활용하여 보고서 문장 표현을 다듬고, 설명의 구조를 개선하며, 실험 결과 해석에 대한 아이디어를 논의하였다.
-
-데이터 전처리, 모델 구현, 실험 수행, 결과 검증 및 최종 결론 도출은 모두 작성자가 직접 수행하였다.
